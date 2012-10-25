@@ -1,4 +1,16 @@
 Sample code related to the "Examining the ViewPager" article series.
 
-Examining the ViewPager 1/4
+Examining the ViewPager #1
+* The basics
+* Adapter using fragments
+* Saving fragment states
+* Adapter using views
+http://www.androidzeitgeist.com/2012/10/examining-viewpager-14.html
+
+Examining the ViewPager #2
+* Offscreen pages
+* Responding to state changes
+* Margin between pages
+* Switching pages programmatically
+http://www.androidzeitgeist.com/2012/10/examining-viewpager-2.html
 
