@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorldImmersion</string>
+    <string name="hello_world"></string>
+
+    <string name="show_hello_word">show hello world</string>
+
+</resources>
